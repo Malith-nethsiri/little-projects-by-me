@@ -1,6 +1,15 @@
 # little-projects-by-me
 
 # the even or odd calculator
+num = int(input("entre your number [press 0 to end the program] = "))
+
+while  not num == 0 :
+        print(f"{num} is an even number") if num % 2 == 0 else print(f"{num} is an odd number")
+        num = int(input("entre your number [press 0 to end the program] = "))
+
+print("BYE")
+
+
   # exapmples for even odd calculator
     >  
 entre your number [press 0 to end the program] = 55
@@ -20,7 +29,34 @@ BYE
 
 
 # coumpound intererest calculator
-  # examples from compound interest calculator
+
+# compound interest calculator
+
+while True :
+        principal = float(input("what is the principle amount-- "))
+        if principal < 0 :
+                print("your principle value can't be less than zero")
+        else:
+                break
+
+while True :
+        rate = float(input("what is the annual interest rate-- "))
+        if  rate < 0 :
+                print("your interest rate can't be a negative value")
+        else:
+                break
+
+while True :
+        time = float(input("For how many years -- "))
+        if time < 1  :
+                print("it must atleast a year to make a interest ")
+        else:
+                break
+
+total = principal * pow((1 + rate / 100),time)
+print(f"your total amount of money in {time} years is {total:.3f}")
+
+   # examples from compound interest calculator
 
 what is the principle amount-- -5632
 your PRINCIPAL VALUE CAN'T BE less than zero
