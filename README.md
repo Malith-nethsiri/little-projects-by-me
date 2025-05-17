@@ -67,4 +67,12 @@ your total amount of money in 5.0 years is 5638.961
 
 
 
+#  the timer
+
+we can set timer for days hours minutes and seconds 
+there is a issue in it the input should be in seconds when we needs to set timer for hours we don't know how meny seconds that to put it in
+we can but we needs to calculate it its a negative point in this
+
+
+
         
