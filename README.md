@@ -73,6 +73,11 @@ we can set timer for days hours minutes and seconds
 there is a issue in it the input should be in seconds when we needs to set timer for hours we don't know how meny seconds that to put it in
 we can but we needs to calculate it its a negative point in this
 
+# guessing game
+
+a game that you can guess a number between 1 and 100 within 5 attemps 
+
+
 
 
         
