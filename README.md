@@ -56,5 +56,41 @@ hamburger
 the total is $19.97
 
 
+# quiz program
+here is some outputs of it
+
+1. What is the capital of Japan?
+A. Seoul
+B. Beijing
+C. Tokyo
+D. Shanghai
+what is the correct answer(A, B, C, D)? a
+your answer is wrong correct answer is C
+---------------------------------------
+
+2. Which gas do plants absorb from the atmosphere?
+A. Oxygen
+B. Nitrogen
+C. Hydrogen
+D. Carbon dioxide
+what is the correct answer(A, B, C, D)? a
+your answer is wrong correct answer is D
+---------------------------------------
+
+3. who wrote the play *Romeo and Juliet*?
+A. Charles Dickens
+B. Mark Twain
+C. William Shakespeare
+D. J.K. Rowling
+what is the correct answer(A, B, C, D)? c
+yes your answer is correct
+---------------------------------------
+
+***your answers***
+A A C 
+***correct answers***
+C D C 
+your result is -> 33.33%
+
 
         
