@@ -93,4 +93,47 @@ C D C
 your result is -> 33.33%
 
 
+# rock paper scissors game 
+
+rock,paper or scissors (press '0' to quit ): asdas
+
+you :      asdas
+computer : paper
+
+just say rock,paper or scissors!!!
+
+rock,paper or scissors (press '0' to quit ): rock
+
+you :      rock
+computer : paper
+
+you lost, try again
+
+rock,paper or scissors (press '0' to quit ): paper
+
+you :      paper
+computer : rock
+
+you win
+
+rock,paper or scissors (press '0' to quit ): paper
+
+you :      paper
+computer : scissors
+
+you lost, try again
+
+rock,paper or scissors (press '0' to quit ): 0
+
+you :      0
+computer : scissors
+
+you won  : 1 
+you lost : 2 
+tie      : 0
+-- GOOD BYE --
+
+
+
+
         
