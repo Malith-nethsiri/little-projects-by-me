@@ -41,19 +41,18 @@ while True:
     else:
         cart[item] = quantity
 
-#bill
-
-
+# calculating the total
 for item_,quantity_ in cart.items():
     item_total = menu[item_]*quantity_
     total += item_total
 
-
-
+print("\n       ------- BILL -------")
+print("*********************************")
 
 #i for item and q for the number of items
-for i,q in cart.items():
-    print(f"{i:9}.............  ${menu[i]} * {q}")
-    print()
-print(f"the total is-------------  ${total:.2f}")
 
+for i,q in cart.items():
+    print(f"{i:10}.............  ${menu[i]} * {q}")
+print()
+print(f"the total is----------  ${total:.2f}")
+print("*********************************")
